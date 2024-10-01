@@ -5,6 +5,6 @@
             table,th,td{border: 1px solid black;width: 20%}
             	th,td{padding-top: 10px; padding-bottom: 10px;                 
 		padding-left: 20px; padding-right: 30px; color: green; } 
-                li{color: rgb(14, 87, 90);font-family: Verdana, Geneva, Tahoma, sans-serif;}
+                ul{color: rgb(14, 87, 90);font-family: Verdana, Geneva, Tahoma, sans-serif 30px;}
 		
         
