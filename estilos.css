@@ -4,6 +4,7 @@
             img{border: 2px solid rgb(13, 17, 221)}
             table,th,td{border: 1px solid black;width: 20%}
             	th,td{padding-top: 10px; padding-bottom: 10px;
+                    li{color: rgb(14, 87, 90);font-family: Verdana, Geneva, Tahoma, sans-serif;}
 		padding-left: 20px; padding-right: 30px; color: green; } 
 		
         
